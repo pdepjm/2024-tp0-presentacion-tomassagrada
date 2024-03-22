@@ -1,5 +1,4 @@
 # 2024-tp0-presentacion-tomassagrada
-2024-tp0-presentacion-tomassagrada created by GitHub Classroom
 
 
 Legajo: 214.097-4
